@@ -19,6 +19,8 @@ Persistence
 Consistency
 Creativity 
 
+Rose is red, violet is blue,
+ERROR CODE IN LINE 32
 
 
 Achievement
