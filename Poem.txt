@@ -7,6 +7,8 @@ Reopening to check fixes
 
 Shine
 Star
+Large stars influence the blue light
+Small stars influence the red light
 Love
 
 Life
