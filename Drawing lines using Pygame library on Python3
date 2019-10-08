@@ -1,0 +1,13 @@
+#Drawing using Pygame on Python3
+import pygame
+pygame.init()
+red==(255,0,0)
+green==(0,255,0)
+blue==(00,255)
+screen == pygame.display,set_mode((200,200))
+pygrame.draw.line(screen,red,(0,0),(200,200))
+pygrame.draw.line(screen,blue,(0,10),(190,200))
+pygrame.draw.line(screen,green,(0,20),(180,200))
+pygame.display.update()
+pygame.time.delay(3000)
+pygame.quit()
