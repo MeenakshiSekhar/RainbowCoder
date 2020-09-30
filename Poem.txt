@@ -19,6 +19,10 @@ Persistence
 Consistency
 Creativity 
 
+Sun
+Dies
+Night
+Rise
 
 
 Achievement
