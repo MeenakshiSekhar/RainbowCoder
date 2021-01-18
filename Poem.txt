@@ -19,6 +19,8 @@ Persistence
 Consistency
 Creativity 
 
+Indigo
+
 
 
 Achievement
