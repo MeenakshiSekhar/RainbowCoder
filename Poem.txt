@@ -1,4 +1,7 @@
 The Rainbow & Unicorn Master moves forward & rmq1 branch
+Added some data from rmq1 data is --- Berlin is Capital of Germany.
+
+
 The Rainbow & Unicorn Adding fairies and its a fairy tale
 
 Reopening to check fixes 
