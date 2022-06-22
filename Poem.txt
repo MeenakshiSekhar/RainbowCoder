@@ -19,6 +19,11 @@ Persistence
 Consistency
 Creativity 
 
+So basically yo first of all forked from the main repository 
+Then it's not a copy but almost a copy
+and whatever you're writing here will only be in here
+For it to be in meenakshi's you'll need to create a pull request showing this branch.
+
 YOLO 
 Coding is lifeee and tryna make a request here 
 
