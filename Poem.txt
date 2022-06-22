@@ -19,6 +19,7 @@ Persistence
 Consistency
 Creativity 
 
+Straight in the main branch
 
 
 Achievement
